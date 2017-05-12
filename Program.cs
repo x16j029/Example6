@@ -16,7 +16,7 @@ namespace Example6
             String name; //string型(文字列型)
 
             //変数への値の代入
-            score = 25;
+            score = (int)0.5;
             pai = 3.1415;
             name = "TARO";
 
